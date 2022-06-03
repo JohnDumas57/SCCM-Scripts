@@ -1,2 +1,2 @@
 # SCCM-Scripts
-Useful SCCM PoweShell Scripts
+Useful SCCM PowerShell Scripts
